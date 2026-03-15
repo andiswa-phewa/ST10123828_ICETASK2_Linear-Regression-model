@@ -11,7 +11,7 @@ The dataset contains information about individuals including:
 - smoking status
 - region
 - insurance charges
-
+  
 ## Project Steps
 The notebook includes the following steps:
 
